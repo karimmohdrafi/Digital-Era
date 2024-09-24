@@ -145,14 +145,13 @@ body {
     text-decoration: none;
     text-align: center;
 }
-@media only screen and (max-width: 600px){
+@media (max-width: 600px){
     h1 {
         font-size: 20px;
     }
     iframe {
-        width: 150px;
+        width: 180px;
         height: 200px;
-        
     }
     .seven .carousel {
         
